@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Zimprich")(type "KiCad")(uri "${KIPRJMOD}/new_lib/modules/Zimprich.pretty")(options "")(descr ""))
+)

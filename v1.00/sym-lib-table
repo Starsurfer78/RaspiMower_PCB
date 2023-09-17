@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Zimprich")(type "KiCad")(uri "${KIPRJMOD}/new_lib/library/Zimprich.kicad_sym")(options "")(descr ""))
+)
